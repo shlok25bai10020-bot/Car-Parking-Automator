@@ -1,0 +1,67 @@
+PROJECT REPORT SUBMISSION
+VITyarthi Project
+Shlok Mahesh Thakur
+
+
+---------------------------------------------------
+
+ABSTRACT
+
+This report outlines the objectives, methodology, and results of the VITyarthi project. The primary goal was to take a real challenge and solve it through Python programming. The outcomes suggest that the problem is solved.
+
+---------------------------------------------------
+
+TABLE OF CONTENTS
+
+1.0 INTRODUCTION
+2.0 METHODOLOGY
+3.0 IMPLEMENTATION
+4.0 RESULTS AND ANALYSIS
+5.0 CONCLUSION AND FUTURE WORK
+6.0 REFERENCES
+
+---------------------------------------------------
+
+1.0 INTRODUCTION
+
+1.1 BACKGROUND
+The project addresses the need for Automated Parking System. Existing solutions have limitations, prompting this research.
+
+1.2 PROBLEM STATEMENT
+The primary problem identified is as Car Parking in various buildings like Malls, residential buildings and commercial buildings.
+
+1.3 OBJECTIVES
+The objectives of this project are:
+  * To develop a working prototype.
+  * To test its effectiveness.
+  * To analyze the outcomes.
+
+---------------------------------------------------
+
+2.0 METHODOLOGY
+
+The project was completed using the Agile methodology. Key tools used included:
+  * Python programming language.
+  * VS Code editor.
+  * Git version control.
+
+Data was collected via input by the user for various types like parking available, number of rows and columns required and etc.
+---------------------------------------------------
+
+3.0 IMPLEMENTATION
+Implementing the Automated parking systems for various vehicle types like bike, car, truck through Python Programming and running the program.
+---------------------------------------------------
+
+4.0 RESULTS AND ANALYSIS
+After running the program, the result is that it enters the number of rows and columns and giving various options for vehicles types for parking removing and parking while entering the vehicle number as well.
+---------------------------------------------------
+
+5.0 CONCLUSION AND FUTURE WORK
+
+5.1 CONCLUSION
+The project successfully achieved its primary objectives. The prototype is functional and demonstrated successfully.
+
+5.2 FUTURE WORK
+Future iterations could explore for various amounts for the parking and the time of parking. 
+
+---------------------------------------------------
